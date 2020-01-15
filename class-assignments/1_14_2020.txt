@@ -1,1 +1,9 @@
+Not too sure what I should be submitting for the assignment/ tutorial...
 
+Commands used to complete the tasks on the data-shell tutorial:
+1. mkdir
+2. mv to rename the draft text file we made
+3. ~ to move the original file of data-shell to repos
+4. cp to make a backup folder
+5. rm to remove a file
+6. integrated skills from lab to this class exercise
