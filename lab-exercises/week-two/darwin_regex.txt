@@ -1,0 +1,9 @@
+1. \b[s](\w)*
+2. \w+[.?]
+3. \b[^(.|?)]*
+4. \b[^(.|?)]*struggle for existence,?\b[^(.|?)]*
+
+EC regex:
+Explanation:
+
+will attempt at a later time if time allows
