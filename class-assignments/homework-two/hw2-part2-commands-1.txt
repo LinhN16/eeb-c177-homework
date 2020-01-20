@@ -1,0 +1,23 @@
+nano hw2-part1-commands.txt
+  555  git add -A
+  556  git commit -m "W2 Pt. 1 HW done"
+  557  git push origin master
+  558  cd ..
+  559  cd CSB
+  560  cd unix/
+  561  cd data
+  562  ls
+  563  head -n 25 Pacifici2013_data.csv 
+  564  cd ..
+  565  cd eeb-c177-homework/
+  566  cd class-assignments/
+  567  cd homework-two/
+  568  nano Pacifici-25lines.txt
+  569  man -w
+  570  -w Pacifici-25lines.txt 
+  571  wc Pacifici-25lines.txt 
+  572  nano hw2-part2-commands-1.txt
+  573  nano Pacifici-25wordcount.txt
+
+In line 569 I attempted to check how word count works, only to quickly realize that the command does not exist. The correct way to check how word count works would have been to use man wc.
+
