@@ -1,0 +1,13 @@
+ 767  head -n 10 Pacifici2013_data.csv | cut -d ';' -f 1- | tail -n +2
+  768  cd ..
+  769  cd eeb-c177-homework/class-assignments/homework-two/
+  770  ls
+  771  nano Pacifici-ten.txt
+  772  cd ..
+  773  cd CSB/unix/data/
+  774  ls
+  775  head -n 11 Pacifici2013_data.csv | cut -d ';' -f 1- | tail -n +2
+
+In the first line (767), I failed to account for the fact that we removed the header.
+In line 775, I account for the missing 10th record by changing head by 1 number.
+
