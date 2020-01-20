@@ -1,0 +1,7 @@
+Total number of characters for the 2 cat files: 21,634
+
+cd ..
+  708  cd CSB/unix/data/miRNA/
+  709  ls
+  710  man cat
+  711  cat ppa_miR.fasta ggo_miR.fasta | wc
