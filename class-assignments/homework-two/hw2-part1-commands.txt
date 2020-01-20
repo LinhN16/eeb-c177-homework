@@ -1,0 +1,7 @@
+1. used wget -c http://dev.shawntylerschwartz.com/docs/paragraphs.txt in order to download the text file
+2. mkdir to create new HW folder 
+2a. cd to get to where text file was originally in
+2b. mv paragraphs.txt to move the text file to the homework 2 folder created in step 2
+3. used mv paragraphs.txt to rename to new file name
+4. used nano to create this text file with commands I used for the HW assignment
+5. used git add-commit-push throughout the steps as instructed
