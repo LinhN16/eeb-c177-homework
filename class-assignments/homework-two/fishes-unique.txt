@@ -122,7 +122,6 @@ Hemitaurichthys multispinosus
 Hemitaurichthys polylepis
 Forcipiger flavissimus
 Chaetodon ulietensis
-Chaetodon ulietensis
 Chaetodon ornatissimus
 Chaetodon madagaskariensis
 Chaetodon marleyi
@@ -133,14 +132,12 @@ Chaetodon aureofasciatus
 Chaetodon ulietensis
 Hemitaurichthys polylepis
 Forcipiger flavissimus
-Forcipiger flavissimus
 Chaetodon blackburnii
 Chaetodon burgessi
 Chaetodon capistratus
 Chaetodon citrinellus
 Chaetodon ornatissimus
 Chaetodon capistratus
-Forcipiger flavissimus
 Forcipiger flavissimus
 Chaetodon unimaculatus
 Chaetodon vagabundus
@@ -153,7 +150,6 @@ Chelmon muelleri
 Chelmon rostratus
 Chelmonops curiosus
 Chaetodon semilarvatus
-Chaetodon semilarvatus
 Amphichaetodon melbae
 Roa excelsa
 Heniochus monoceros
@@ -162,7 +158,6 @@ Hemitaurichthys polylepis
 Forcipiger flavissimus
 Hemitaurichthys multispinosus
 Hemitaurichthys polylepis
-Chaetodon blackburnii
 Chaetodon blackburnii
 Chaetodon bennetti
 Chaetodon blackburnii
@@ -207,3 +202,4 @@ Chaetodon dolosus
 Chaetodon ephippium
 Chaetodon falcula
 Chaetodon wiebeli
+

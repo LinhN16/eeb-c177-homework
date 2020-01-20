@@ -1,0 +1,23 @@
+  804  git add -A
+  805  git commit -m "W2 HW2 PT 4"
+  806  git push origin master
+  807  man -n
+  808  man n
+  809  touch fish_species.txt 
+  810  nano fish_species.txt 
+  811  -n fish_species.txt 
+  812  -10 fish_species.txt 
+  813  nano fish_species.txt 
+  814  ls
+  815  -n fish_species.txt 
+  816  sort fish_species.txt 
+  817  nano fishes-sort.txt
+  818  sort -r fish_species.txt
+  819  nano fishes-rev-sort.txt
+  820  uniq fish_species.txt 
+  821  nano fishes-unique.txt
+  822  history
+  823  history 20 > ~/developer/repos/eeb-c177-homework/class-assignments/homework-two/hw2-part4-commands.txt
+
+Lines 811-815 show the commands I experimented with before I was able to sort the txt file.
+
