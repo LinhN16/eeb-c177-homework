@@ -3,7 +3,8 @@
 3. \b[^(.|?)]*
 4. \b[^(.|?)]*struggle for existence,?\b[^(.|?)]*
 
-EC regex:
-Explanation:
+EC regex: (^\S+|[.?] (\S))
+Explanation: ^\S takes care of highlighting the very first word that doesn't have a space, meaning Natural...
+[?.] (\S+) highlights the start of a period or question mark in addition to the next word until a non-white space comes up
+The | highlights the first word OR the word after the punctuation (we need this in order to highlight the first word Natural and all other first words of each sentence
 
-will attempt at a later time if time allows
