@@ -1,0 +1,10 @@
+  830  ls
+  831  cd CSB/unix/data/
+  832  ls
+  833  tail -n+2 ~/developer/repos/CSB/unix/data/Pacifici2013_data.csv | cut -d ";" -f 2-6 | tr ";" " " | sort -r -n -k 6
+  834  tail -n+2 ~/developer/repos/CSB/unix/data/Pacifici2013_data.csv | cut -d ";" -f 2-6 | tr ";" " " | sort -r -n -k 6 > ~/developer/repos/eeb-c177-homework/class-assignments/homework-two/bodym.csv
+  835  cd ~
+  836  cd developer/repos/eeb-c177-homework/class-assignments/homework-two/
+  837  ls
+  838  nano bodym.csv 
+  839  history 10 > hw2-part5-commands.txt
